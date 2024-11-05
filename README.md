@@ -2,15 +2,19 @@
 ###### Official CIS111B Final Project by [Shane Staret](https://github.com/shane-staret), [Yao Sedzro](https://github.com/YS26), and [Trush Patel](https://github.com/trushpatel97). Created through the use of MATLAB, Java, and Arduino.
 
 ###### Before this all started, we didn’t even know how to write a single line of code in MATLAB, but through perseverance, hard work, and most importantly all the help we got on the way, we were able to make an awesome project.
-###### *We'd like to thank [Theodore Gray](http://home.theodoregray.com/), [Professor Kendall Martin](http://lelejiktenkye.blogspot.com/), and [Professor Robert Moyer](http://faculty.mc3.edu/rmoyer/) for helping us throughout this project, if it wasn’t for them none of this would have been possible.*
+###### *We'd like to thank [Theodore Gray](http://home.theodoregray.com/), [Professor Kendall Martin](http://lelejiktenkye.blogspot.com/), and Professor Robert Moyer for helping us throughout this project, if it wasn’t for them none of this would have been possible.*
 ________________________________________________________________________________________________________________________________
 
 ## **Resources**
 
 #### We give a run down of what we have done for the past six weeks and present our code output within [this short video](https://www.youtube.com/watch?v=CgzbIqppAzo). On the flipside, this is a [*very* in depth video](https://www.youtube.com/watch?v=NfeG2EDdjmE) explaining every line of our MATLAB code (doesn't show the final code but it is similar). 
 * [YouTube channel](https://www.youtube.com/channel/UCmQA16swmtPa29pRo9YtRTA)
-* [JavaDoc](https://sstaret43.github.io/ColorAnimation/)
+<!---
+[JavaDoc](https://sstaret43.github.io/ColorAnimation/)
+-->
+<!---
 * [Google Hangouts Conversation](https://hangouts.google.com/group/vYaHYCTixmCaNGMp1) NOTE: You will join the conversation and will be able to read all previous messages we sent
+* -->
 * [Freedcamp Page](https://freedcamp.com/CIS_111B_Final_Proje_sX0/A_Project_IzH/todos)
 ________________________________________________________________________________________________________________________________
 
