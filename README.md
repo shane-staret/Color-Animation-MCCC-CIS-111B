@@ -7,8 +7,8 @@ ________________________________________________________________________________
 
 ## **Resources**
 
-#### We give a run down of what we have done for the past six weeks and present our code output within [this short video](https://www.youtube.com/watch?v=CgzbIqppAzo). On the flipside, this is a [*very* in depth video](https://www.youtube.com/watch?v=NfeG2EDdjmE) explaining every line of our MATLAB code (doesn't show the final code but it is similar). 
-* [YouTube channel](https://www.youtube.com/channel/UCmQA16swmtPa29pRo9YtRTA)
+#### We give a run down of what we have done for the past six weeks and present our code output within [this short video](https://www.youtube.com/watch?v=jviudyhzZzM). On the flipside, this is a [*very* in depth video](https://www.youtube.com/watch?v=b3EQZi0axIM) explaining every line of our MATLAB code (doesn't show the final code but it is similar). 
+* [YouTube channel](https://www.youtube.com/@shane-staret)
 <!---
 [JavaDoc](https://sstaret43.github.io/ColorAnimation/)
 -->
